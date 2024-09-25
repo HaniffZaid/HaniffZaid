@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haniff Zaid</h1>
-<h3 align="center">A passionate Data Scientist from Malaysia</h3>
+<h3 align="center">A passionate entry-level Data Scientist from Malaysia</h3>
 
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQHkVla_hSPmTg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725349409352?e=1732752000&v=beta&t=dtSc6FKXU2V8hzHKCawADKfsWkNduys0hkffYG5pXWg" alt="" style="width:100%; max-width:600px;" />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haniffzaid" alt="haniffzaid" /></a> </p>
